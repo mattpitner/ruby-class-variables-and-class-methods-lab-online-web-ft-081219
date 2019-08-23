@@ -35,8 +35,8 @@ class Song
     else 
       count[genre] = 1 
     end 
-      
     end 
+    return count
   end 
   
   
